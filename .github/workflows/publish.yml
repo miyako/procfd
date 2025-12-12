@@ -26,7 +26,7 @@ on:
           required: true
 
 env: 
-  project_path: fourd/Project/tcp.4DProject
+  project_path: tcp/Project/tcp.4DProject
   
 jobs:
 

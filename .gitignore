@@ -1,3 +1,10 @@
 rust/*
 fourd/Project/DerivedData/*
 fourd/userPreferences.*
+tcp/Project/DerivedData/*
+tcp/Libraries/lib4d-arm64.dylib
+tcp/userPreferences.*
+tcp/Settings/buildApp.4DSettings
+tcp/Data/Logs/buildApp.log.xml
+tcp/Data/Logs/BuildLogStyleSheet.css
+tcp/Resources/en.lproj/syntaxEN.json
