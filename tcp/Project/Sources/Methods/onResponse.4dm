@@ -1,5 +1,5 @@
 //%attributes = {"invisible":true,"preemptive":"capable"}
-#DECLARE($status : Object)
+#DECLARE($status : Object; $port)
 
 If ($status.success)
 	
