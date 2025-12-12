@@ -2,6 +2,26 @@
 	"editors": [
 		{
 			"type": "method",
+			"id": 2147483647,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "_onResponse"
+			}
+		},
+		{
+			"type": "explorer"
+		},
+		{
+			"type": "method",
+			"id": 2147483615,
+			"codeDescriptor": {
+				"type": 11,
+				"className": "tcp",
+				"methodPath": "/SOURCES/Classes/tcp.4dm"
+			}
+		},
+		{
+			"type": "method",
 			"id": 2147483646,
 			"codeDescriptor": {
 				"type": 1,
